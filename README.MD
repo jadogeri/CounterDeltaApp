@@ -34,25 +34,25 @@ https://github.com/jadogeri/CounterDeltaApp.git
 #### Get Project 
 1 Open command line or terminal.
 
-2 Type command git clone https://github.com/jadogeri/CounterDeltaApp.git then press enter.
+2 Type command `git clone https://github.com/jadogeri/CounterDeltaApp.git` then press enter.
 
 ```bash
   git clone https://github.com/jadogeri/CounterDeltaApp.git
 ```
 
-3 Enter command cd CounterDeltaApp then press enter.
+3 Enter command `cd CounterDeltaApp` then press enter.
 
 ```bash
   cd CounterDeltaApp
 ```
 
-4 Enter command npm install.
+4 Enter command `npm install`.
 
 ```bash
   npm install
 ```
 
-5 Type npm start to run program.
+5 Type `npm start` to run program.
 
 ```bash
   npm start
@@ -68,7 +68,7 @@ https://github.com/jadogeri/CounterDeltaApp.git
 
 2 Navigate to project folder ./CounterDeltaApp.
 
-3 Enter npmrun test to run tests.
+3 Enter `npm run test` to run tests.
 
 ```bash
   npm run test
